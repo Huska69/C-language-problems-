@@ -8,7 +8,6 @@
 //Please show two number on screen, first number represent the sum and second number represent the average. For average your program should display to second decimal place.
 
 #include<stdio.h>
-
 int main(){
   int neg=0,n,sum=0;
   float average=0;
