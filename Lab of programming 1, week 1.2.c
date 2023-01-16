@@ -1,6 +1,6 @@
 //NDHU CSIE Lab of programming 1, week 1.2
 
-//Write a program to read in an integer, a floating point and a character then display them on screen.
+//Write a program to read in an integer, a floating point and a character then display them on screen
 //Input
 //A integer number, a floating point number and a character separate by a single space.
 //Output
