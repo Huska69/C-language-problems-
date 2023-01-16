@@ -1,6 +1,6 @@
 //NDHU CSIE Lab of programming 1, week 2.2
 
-//Write a program to read in a floating point number and display the round off and round down to second decimal place of the number.
+//Write a program to read in a floating point number and display the round off and round down to second decimal place of the number
 //Input
 //A floating point number.
 //Output
