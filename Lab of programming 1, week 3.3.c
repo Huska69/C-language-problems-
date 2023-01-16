@@ -10,7 +10,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
 int main()
 {
     int km1, km2 = 200;
