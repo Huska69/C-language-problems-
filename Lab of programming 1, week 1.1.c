@@ -1,5 +1,5 @@
 //NDHU CSIE Lab of programming 1, week 1.1
-//Please write a program to display the following article.
+//Please write a program to display the following article
 
 //Taipei, Taiwan
 //CNN
