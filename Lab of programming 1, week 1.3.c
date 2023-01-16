@@ -1,6 +1,6 @@
 //NDHU CSIE Lab of programming 1, week 1.3
 
-//Write a program read in a character and display it using as an integer and as a character.
+//Write a program read in a character and display it using as an integer and as a character
 //Input
 //A displayable ASCII code character
 //Output
