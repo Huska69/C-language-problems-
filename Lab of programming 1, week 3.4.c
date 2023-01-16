@@ -8,6 +8,7 @@
 //print "Yes" if 4 appear, "No" if not.
 
 #include<stdio.h>
+
 int main()
 {
 	int n,numaPlate,remainder;
