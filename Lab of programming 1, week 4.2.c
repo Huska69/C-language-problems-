@@ -7,6 +7,7 @@
 //Please reference the sample output.
 
 #include<stdio.h>
+
 int main(){
   int input,i;
   scanf("%d",&input);
