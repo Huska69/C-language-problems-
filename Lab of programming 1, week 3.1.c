@@ -4,7 +4,6 @@
 //Write a program read in an integer N to test if N if the possible number of the thing.
 
 #include <stdio.h>
-
 int main()
 {
     int integer;
