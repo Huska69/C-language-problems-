@@ -7,7 +7,6 @@
 //The largest number of given 4.
 
 #include <stdio.h>
-
 int main()
 {
     int a, b, c, d;
