@@ -8,7 +8,7 @@
 //Write a program to calculate P.
 //Input
 //Two integer n and k which n > k.
-//Output
+//Output:
 //The result of P(n, k).
 
 #include<stdio.h>
